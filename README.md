@@ -1,7 +1,7 @@
 # FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis
 
-**CSV2FAIR_KG** transforms tabular data (CSV) into a Findable, Accessible, Interoperable and Reusable (FAIR) knowledge graph (KG) for biomedical research. It integrates ontology mapping, metadata enrichment, Persistent Identifier (PID) assignment and graph construction for semantic applications.
-**RAG-interface** is the user interface for the FAIR GraphRAG system and a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). An LLM serves as a chatbot and enables querying a knowledge graph stored in Neo4j for data analysis purposes.
+- **CSV2FAIR_KG** transforms tabular data (CSV) into a Findable, Accessible, Interoperable and Reusable (FAIR) knowledge graph (KG) for biomedical research. It integrates ontology mapping, metadata enrichment, Persistent Identifier (PID) assignment and graph construction for semantic applications.   
+- **RAG-interface** is the user interface for the FAIR GraphRAG system and a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). An LLM serves as a chatbot and enables querying a knowledge graph stored in Neo4j for data analysis purposes.
 
 ## Citation
 
